@@ -1,0 +1,28 @@
+table {
+  border-collapse: collapse;
+}
+
+.Rahmen, .Montag,.Dienstag,.Mittwoch,.Donnerstag,.Freitag {
+  width: 100px;
+  height: 30px;
+  border-style: groove;
+}
+
+.Vorlage {
+  border-style: none;
+  width: 100px;
+  height: 30px;
+}
+
+.Fach {
+  text-align: left;
+  width: 100%;
+}
+
+.Raum {
+  text-align: left;
+}
+
+.Lehrer {
+  text-align: right;
+}
